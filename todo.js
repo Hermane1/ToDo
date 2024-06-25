@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', (event) => {
+document.addEventListener('DOMContentLoaded', () => {
     const input = document.getElementById('todo-input');
     const addButton = document.getElementById('add-button');
     const todoList = document.getElementById('todo-list');
